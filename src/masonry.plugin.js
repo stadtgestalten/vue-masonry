@@ -4,6 +4,7 @@
 
  const attributesMap = {
    'column-width': 'columnWidth',
+   'gutter': 'gutter',
    'transition-duration': 'transitionDuration',
    'item-selector': 'itemSelector',
    'origin-left': 'originLeft',
